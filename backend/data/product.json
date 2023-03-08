@@ -1,0 +1,84 @@
+[
+
+    {
+        "name": "iPhone Galaxy +1",
+        "price": 549,
+        "description": "An apple mobile which is nothing like apple",
+        "ratings": 4,
+        "images": [
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 94,
+        "numOfReviews": 32,
+        "review": []
+    },
+
+    {
+        "name": "iPhone Galaxy +2",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "ratings": 4,
+        "stock": 94,
+        "category": "Electronics",
+        "seller": "Ebay",
+        "numOfReviews": 32,
+        "review": [],
+        "images": [
+        ]
+    },
+
+    {
+        "name": "iPhone Galaxy +3",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "ratings": 4,
+        "stock": 94,
+        "category": "Electronics",
+        "seller": "Ebay",
+        "numOfReviews": 32,
+        "review": [],
+        "images": [
+        ]
+    },
+
+    {
+        "name": "iPhone Galaxy +4",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "ratings": 4,
+        "stock": 94,
+        "category": "Electronics",
+        "seller": "Ebay",
+        "numOfReviews": 32,
+        "review": [],
+        "images": [
+        ]
+    },
+    {
+        "name": "iPhone Galaxy +5",
+        "price": 549,
+        "description": "An apple mobile which is nothing like apple",
+        "ratings": 4,
+        "images": [
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 94,
+        "numOfReviews": 32,
+        "review": []
+    },
+    {
+        "name": "iPhone Galaxy +6",
+        "price": 549,
+        "description": "An apple mobile which is nothing like apple",
+        "ratings": 4,
+        "images": [
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 94,
+        "numOfReviews": 32,
+        "review": []
+    }
+]
